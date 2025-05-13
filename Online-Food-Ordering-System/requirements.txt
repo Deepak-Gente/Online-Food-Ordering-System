@@ -1,0 +1,11 @@
+mysql-connector
+mysql-connector-python
+CustomTkinter
+bcrypt
+tkintermapview
+matplotlib
+CTkMessagebox
+CTkSpinbox
+reportlab 
+matplotlib 
+pandas
