@@ -1,8 +1,8 @@
 class Config:
     # Database Configuration
     db_host = "141.209.241.57"
-    user = "uppar2s"
-    password = "Uppar2s$2021"  # Set your database password here
+    user = "gente1d"
+    password = "Deepak@120726"  # Set your database password here
     database = "BIS698W1830_GRP6"
     
     # Application Settings
